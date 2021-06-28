@@ -318,6 +318,7 @@ country_event = {
 		OR = {
 			tag = USA
 			tag = CAN
+			tag = MEX
 			relation = { who = RUS value = 0 }
 			alliance_with = RUS
 		}
@@ -332,6 +333,7 @@ country_event = {
 		modifier = {
 			factor = 0.5
 			tag = USA
+			tag = MEX
 		}
 		modifier = {
 			factor = 0.8
