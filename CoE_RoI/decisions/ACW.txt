@@ -145,6 +145,7 @@ political_decisions = {
 				tag = USA
 				tag = CSA
 				tag = FSA
+				tag = MEX
 			}
 			NOT = {
 				has_country_flag = custers_expedition_sent
@@ -171,6 +172,7 @@ political_decisions = {
 				tag = USA
 				tag = CSA
 				tag = FSA
+				tag = MEX
 			}
 			OR = { government = democracy government = democracy2 government = democracy3 }
 			NOT = {
